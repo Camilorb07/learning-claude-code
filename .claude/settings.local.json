@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Start-Process *)",
+      "PowerShell(Start-Process \"C:\\\\Users\\\\crbri\\\\OneDrive\\\\Desktop\\\\learning_claude_code\\\\tictactoe.html\")",
+      "Bash(gh *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(claude auth *)"
+    ]
+  }
+}
